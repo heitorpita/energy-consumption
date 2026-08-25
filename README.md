@@ -14,6 +14,7 @@ hardware.
 Trabalhos que servem de base metodológica:
 
 https://luiscruz.github.io/course_sustainableSE/2026/
+
 https://github.com/tdurieux/energibridge
 
 ## Contexto
