@@ -1,4 +1,4 @@
-.sh
+*.sh
 # ============================================================
 # Python
 # ============================================================
@@ -24,6 +24,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+CLAUDE.md
 pip-log.txt
 pip-delete-this-directory.txt
 
@@ -127,6 +128,7 @@ plots/*.pdf
 *.bin
 a.out
 target/
+alg_ordenacao/gera
 
 # ============================================================
 # LaTeX (relatório)
